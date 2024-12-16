@@ -109,3 +109,8 @@ Each line should have:
 - Node: Enclosed in square brackets (e.g., [/camera_driver]).
 - Message: Descriptive text.
 
+**Future Improvements**
+
+- Add support for additional log formats.
+- Implement advanced filtering (e.g., filter by time range or node).
+- Support CSV export for filtered logs.
